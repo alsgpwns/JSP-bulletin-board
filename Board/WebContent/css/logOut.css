@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.login_msg{
+    font-size: xx-small;
+    text-align: center;
+}
+
+#buttons{
+    display: block;
+    margin: 3px 33.3px;
+}
+
+.account{
+    background-color: pink;
+    width: 200px;
+    padding: 3px;
+}
